@@ -1,0 +1,9 @@
+[package]
+name = "swan"
+version = "0.0.0"
+edition = "2021"
+description = "Reserved for future use."
+license = "MIT"
+repository = "https://github.com/nylonicious/swan"
+
+[dependencies]
